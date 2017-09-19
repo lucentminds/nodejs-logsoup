@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-logsoup",
+  "version": "1.0.0",
+  "description": "My own nodejs logger",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucentminds/nodejs-logsoup.git"
+  },
+  "keywords": [],
+  "author": "Scott Johnson <scott@lucentminds.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucentminds/nodejs-logsoup/issues"
+  },
+  "homepage": "https://github.com/lucentminds/nodejs-logsoup#readme"
+}
